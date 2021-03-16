@@ -1,0 +1,9 @@
+#IDEs and Editors
+/.vscode
+
+#Dependencies folder
+/node_modules
+
+#Dependencies manifests
+yarn.lock
+package-lock.json

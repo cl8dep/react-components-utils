@@ -1,0 +1,24 @@
+{
+  "name": "react-components-utils",
+  "version": "0.0.1",
+  "description": "React package for utils components",
+  "main": "index.js",
+  "repository": "https://github.com/cl8dep/react-components-utils",
+  "author": "Arael D. Espinosa Pérez",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@storybook/addon-actions": "^6.1.21",
+    "@storybook/addon-essentials": "^6.1.21",
+    "@storybook/addon-links": "^6.1.21",
+    "@storybook/react": "^6.1.21",
+    "babel-loader": "^8.2.2",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  }
+}
