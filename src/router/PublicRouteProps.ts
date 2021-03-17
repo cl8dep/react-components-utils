@@ -1,4 +1,4 @@
-interface PrivateRouteProps {
+interface PublicRouteProps {
   condition: boolean;
   fallbackUrl: string;
   component?: React.ReactNode | React.ReactChild | any;
@@ -7,4 +7,4 @@ interface PrivateRouteProps {
   path: string;
 }
 
-export default PrivateRouteProps;
+export default PublicRouteProps;

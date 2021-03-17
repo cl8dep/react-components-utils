@@ -1,7 +1,4 @@
-import PrivateRoute from './PrivateRoute';
-import PrivateRouteProps from './PrivateRouteProps';
+import PrivateRoute from "./PrivateRoute";
+import PrivateRouteProps from "./PrivateRouteProps";
 
-export {
-    PrivateRoute,
-    PrivateRouteProps
-}
+export { PrivateRoute, PrivateRouteProps };
